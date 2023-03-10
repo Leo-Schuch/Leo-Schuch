@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leo-Schuch
+- 👋 Hi, I’m Leonardo Schuch Abelheira
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate with new technologies
